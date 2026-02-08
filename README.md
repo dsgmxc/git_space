@@ -1,7 +1,7 @@
-#FPGA Repository
-##1.Introduction
+# FPGA Repository
+## 1.Introduction
 This Repository is built strictly for educational purpose, focuses on FPGA-based logic design and development workflow practice
-##2.Project Structure
+## 2.Project Structure
 Here is an overview of the repository folders and their contents:
 ### 📁 `/src`
 - **Description**: Source files
